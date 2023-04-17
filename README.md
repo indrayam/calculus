@@ -5,6 +5,8 @@
 2. Derivates: Change, Quantified
 3. Integrals: Adding up Change
 
+![Calculus](/calc.jpg)
+
 ## TextBooks
 - [The Calculus Story](https://www.amazon.com/Calculus-Story-Mathematical-Adventure-ebook/dp/B07663RN18/ref=sr_1_1?crid=U3PEL5A0UUCU&keywords=calculus+story&qid=1681760845&sprefix=calculus+story%2Caps%2C137&sr=8-1)
 - [Painless Calculus](https://www.amazon.com/Painless-Calculus-Barrons-Christina-Pawlowski/dp/150627319X/ref=sr_1_1?keywords=painless+calculus+barrons&qid=1681760708&sprefix=painless+calc%2Caps%2C203&sr=8-1)
