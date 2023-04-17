@@ -7,7 +7,7 @@
 
 ![Calculus](/calc.jpg)
 
-## Basic
+## Getting Started with Calculus
 ### TextBooks
 - [Painless Calculus](https://www.amazon.com/Painless-Calculus-Barrons-Christina-Pawlowski/dp/150627319X/ref=sr_1_1?keywords=painless+calculus+barrons&qid=1681760708&sprefix=painless+calc%2Caps%2C203&sr=8-1)
 - [Barron's EZ Calculus](https://www.amazon.com/Z-Calculus-Barrons-Easy/dp/0764144618/ref=sr_1_1?crid=1SOQH2KK3S7X6&keywords=barron%27s+calculus+the+easy+way&qid=1681760757&sprefix=barron%27s+calculus+the+easy+way%2Caps%2C167&sr=8-1)
@@ -20,7 +20,7 @@
 - [Math & Science "Calculus 3 Integrals Tutor - Vol 1" Playlist](https://www.youtube.com/playlist?list=PLnVYEpTNGNtX9LmRhEVMJOm-gc-FUmKS_)
 - [Math & Science "Calculus 3 Integrals Tutor - Vol 2" Playlist](https://www.youtube.com/playlist?list=PLnVYEpTNGNtXRrR8YproOqLM-chWLMheR)
 
-## Advanced
+## Advanced Resources on Calculus
 ### Test Prep Books
 - [How to Ace Calculus](https://www.amazon.com/How-Ace-Calculus-Streetwise-Guide/dp/0716731606/ref=sr_1_1?keywords=how+to+ace+calculus&qid=1681760974&sprefix=how+to+ace+calc%2Caps%2C125&sr=8-1)
 - [Essential Calculus Skills Practice Workbook](https://www.amazon.com/Essential-Calculus-Practice-Workbook-Solutions/dp/1941691242/ref=sr_1_2_sspa?keywords=essential+calculus+stewart&qid=1681760992&sprefix=essential+calcu%2Caps%2C209&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyVjhMR0FBNVo0VU5RJmVuY3J5cHRlZElkPUEwMjc1ODI1M09ORFAyVTU0TjlYSyZlbmNyeXB0ZWRBZElkPUEwNDU2ODUxM0w2V0ZPVE5TMkw0MSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
