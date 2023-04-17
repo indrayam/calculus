@@ -20,7 +20,7 @@
 - [Math & Science "Calculus 3 Integrals Tutor - Vol 1" Playlist](https://www.youtube.com/playlist?list=PLnVYEpTNGNtX9LmRhEVMJOm-gc-FUmKS_)
 - [Math & Science "Calculus 3 Integrals Tutor - Vol 2" Playlist](https://www.youtube.com/playlist?list=PLnVYEpTNGNtXRrR8YproOqLM-chWLMheR)
 
-## Advanced Resources on Calculus
+## Calculus Deeper Dive
 ### Test Prep Books
 - [How to Ace Calculus](https://www.amazon.com/How-Ace-Calculus-Streetwise-Guide/dp/0716731606/ref=sr_1_1?keywords=how+to+ace+calculus&qid=1681760974&sprefix=how+to+ace+calc%2Caps%2C125&sr=8-1)
 - [Essential Calculus Skills Practice Workbook](https://www.amazon.com/Essential-Calculus-Practice-Workbook-Solutions/dp/1941691242/ref=sr_1_2_sspa?keywords=essential+calculus+stewart&qid=1681760992&sprefix=essential+calcu%2Caps%2C209&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyVjhMR0FBNVo0VU5RJmVuY3J5cHRlZElkPUEwMjc1ODI1M09ORFAyVTU0TjlYSyZlbmNyeXB0ZWRBZElkPUEwNDU2ODUxM0w2V0ZPVE5TMkw0MSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
